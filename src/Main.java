@@ -12,11 +12,11 @@ public class Main {
         }
         int totalAmount = deposit;
 
-        System.out.println("Сумма стоимости билета: ");
-        System.out.println(totalAmount);
+        System.out.print("Сумма стоимости билета: ");
+        System.out.print(totalAmount);
         System.out.println("P");
-        System.out.println("бесплатные мили за перелёты: ");
-        System.out.println(bonus);
+        System.out.print("Бесплатные мили за перелёты: ");
+        System.out.print(bonus);
         System.out.println("P");
     }
 }
